@@ -9,12 +9,12 @@
   <div style="display: inline_block">
     <br>
     <h2> Some languages I'm study in the moment: </h2>
-   <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></img> 
-   <img src="https://img.shields.io/badge/CSS-blue?&style=for-the-badge&logo=css3&logoColor=white" target="_blank"></img>
-   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" target="_blank"></img>
-   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" target="_blank"></img>
-   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" target="_blank"></img>
-   <img src="https://img.shields.io/badge/Wordpress-gray?style=for-the-badge&logo=wordpress&logoColor=black" target="_blank"></img>
+   <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white"></img> 
+   <img src="https://img.shields.io/badge/CSS-blue?&style=for-the-badge&logo=css3&logoColor=white"></img>
+   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></img>
+   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></img>
+   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></img>
+   <img src="https://img.shields.io/badge/Wordpress-gray?style=for-the-badge&logo=wordpress&logoColor=black"></img>
 </div>
   
   ##
