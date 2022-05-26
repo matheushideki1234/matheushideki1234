@@ -2,17 +2,19 @@
 
 <div align="center">
   <a href="https://github.com/matheushideki1234">
-  <img height="150em" border-radius= "10px"; src="https://github-readme-stats.vercel.app/api?username=matheushideki1234&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" border-radius= "20px"; src="https://github-readme-stats.vercel.app/api?username=matheushideki1234&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheushideki1234&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
   <div style="display: inline_block">
     <br>
     <h2> Some languages I'm study in the moment: </h2>
-  <img align="center" alt=Mat-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Mat-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Mat-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Mat-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+   <a href="https://twitter.com/matheus_fukuda" target="_blank"><img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>                                                                                           
+   <a href="https://twitter.com/matheus_fukuda" target="_blank"><img src="https://img.shields.io/badge/CSS-blue?&style=for-the-badge&logo=css3&logoColor=white" target="_blank"></a>
+     <a href="https://twitter.com/matheus_fukuda" target="_blank"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" target="_blank"></a>  
+   <a href="https://twitter.com/matheus_fukuda" target="_blank"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" target="_blank"></a>  
+  <a href="https://twitter.com/matheus_fukuda" target="_blank"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" target="_blank"></a>  
+     <a href="https://twitter.com/matheus_fukuda" target="_blank"><img src="https://img.shields.io/badge/Wordpress-gray?style=for-the-badge&logo=wordpress&logoColor=black"target="_blank"></a>  
 </div>
   
   ##
