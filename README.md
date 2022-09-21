@@ -24,8 +24,9 @@
   <a href = "mailto:matheushideki1234@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-fukuda-385009155/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   </br>
+  <h3>Now Playing: :headphones:</h3>
   <h2>
-  <a href="https://open.spotify.com/user/22fgpjfx5pafjop5lxs4r53ia" rel="nofollow">
+  <a href="https://open.spotify.com/user/matheushideki1234" rel="nofollow">
     <img src="https://camo.githubusercontent.com/8856182e969dc3e0bd4a0a2cfc68932d632281f6c9ebf95e45262fb2f1ae7c63/68747470733a2f2f6769746875622d726561646d652d72656d616b652e76657263656c2e6170702f6170692f73706f74696679">
   </a>
  </h2>
