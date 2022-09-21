@@ -27,7 +27,7 @@
   <h3>Now Playing: :headphones:</h3>
   <h2>
   <a href="https://open.spotify.com/user/matheushideki1234?si=d914f1b4928140b3" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/8856182e969dc3e0bd4a0a2cfc68932d632281f6c9ebf95e45262fb2f1ae7c63/68747470733a2f2f6769746875622d726561646d652d72656d616b652e76657263656c2e6170702f6170692f73706f74696679">
+    <img src="https://open.spotify.com/user/matheushideki1234?si=d914f1b4928140b3">
   </a>
  </h2>
   </div>
