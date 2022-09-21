@@ -26,11 +26,10 @@
   </br>
   <h3>Now Playing: :headphones:</h3>
   <h2>
-  <a href="https://open.spotify.com/user/matheushideki1234" rel="nofollow">
+  <a href="https://open.spotify.com/user/matheushideki1234?si=d914f1b4928140b3" rel="nofollow">
     <img src="https://github.com/matheushideki1234">
   </a>
  </h2>
-   
   </div>
   
   
