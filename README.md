@@ -8,7 +8,7 @@
 
 - 💪 Seeking excellence in my life.
 
-- 📚 Learning about **Python, HTML, CSS, JavaScript and TypeScript.**
+- 📚 Learning about **Python, HTML, CSS, JavaScript & TypeScript.**
 
 
 ## 🛠 &nbsp;Languages and Tools 
