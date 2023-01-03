@@ -1,30 +1,84 @@
-### Hello, I'm Matheus, welcome to my Github!
-
-  <div align="center">
-  <a href="https://github.com/matheushideki1234">
-  <img height="150em" border-radius= "20px"; src="https://github-readme-stats.vercel.app/api?username=matheushideki1234&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" border-radius= "20px"; src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheushideki1234&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  
-  <div style="display: inline_block">
-    <br>
-    <h2> Some languages I'm study in the moment: </h2>
-   <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white"></img> 
-   <img src="https://img.shields.io/badge/CSS-blue?&style=for-the-badge&logo=css3&logoColor=white"></img>
-   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></img>
-   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></img>
-</div>
-  
-  ##
-   <img align="right" width="320" src="https://acegif.com/wp-content/uploads/cat-typing-2.gif"/>
-  <h2> You contact me in: </h2>
-  <div>
-   <a href="https://twitter.com/matheus_fukuda" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>                                                                                           
-  <a href="https://instagram.com/matheus_fukuda" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:matheushideki1234@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/matheus-fukuda-385009155/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-  </br>
-  </div>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/matheushideki1234/d6a254aeadd1e8287615bcb9b0cd10e9/raw/8cd69bc3564215f2ce317faa44f7bdf758c8b75a/githubcard.svg"/>
+2
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Matheus Fukuda</h1>
+3
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kadulisboa&color=green" alt="Profile views" /> </p>
+4
+​
+5
+- 🎲 Information Technology Infrastructure Specialist.
+6
+​
+7
+- 🚀 I’m currently working at [FIVE Validation](https://fivevalidation.com).
+8
+​
+9
+- 💪 Seeking excellence in my life.
+10
+​
+11
+- 📚 Learning about **Python, HTML, CSS, JavaScript and TypeScript.**
+12
+​
+13
+<br>
+14
+​
+15
+## 🛠 &nbsp;Languages and Tools
+16
+​
+17
+![Python](https://shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+18
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+23
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+24
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+25
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+26
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+27
+<!-- ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp; -->
+29
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+30
+​
+32
+<br><br>
+33
+​
+34
+## ✉️ Contact
+35
+​
+36
+<p align="left" style="background:green">
+37
+<a href="https://www.linkedin.com/in/matheus-fukuda-385009155/" target="_blank">
+38
+  <img align="center" src="https://img.shields.io/badge/-Matheus Fukuda-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+39
+</a>
+40
+<a href="https://www.instagram.com/matheus_fukuda/" target="_blank">
+41
+ <img align="center" src="https://img.shields.io/badge/-matheus_fukuda-05122A?style=flat&logo=instagram" alt="instagram"/>
+42
+</a>
+43
+  <a href="mailto:matheushideki1234@hotmail.com" target="_blank">
+44
+ <img align="center" src="https://img.shields.io/badge/-matheushideki1234@hotmail.com-05122A?style=flat&logo=gmail" alt="e-mail"/>
+45
+</a>
+46
+</p>
+47
+​
   
   
   
