@@ -8,12 +8,12 @@
 
 - 💪 Seeking excellence in my life.
 
-- 📚 Learning about **Python, HTML, CSS, JavaScript & TypeScript.**
+- 📚 Learning about **PHP, HTML, CSS, JavaScript & TypeScript.**
 
 
 ## 🛠 &nbsp;Languages and Tools 
 
-![Python](https://shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp; 
+![PHP](https://shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp; 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp; <br>
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp; 
